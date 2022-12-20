@@ -62,7 +62,7 @@ Introduzir conceitos de CSS Grid Layout.
 
 <br />
 
-- Para acessar o site [Clique aqui](INSERIR LINK)
+- Para acessar o site [Clique aqui](https://dancing-lolly-44932a.netlify.app/)
 
 <br />
 
