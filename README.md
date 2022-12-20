@@ -23,18 +23,18 @@ Criação de um site em HTML5 e CSS3.
 
 Desenvolver um site utilizando CSS Grid Layout.
 
-Este projeto foi um desafio proposto no curso de [HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) da Origamid. 
+Este projeto foi um desafio proposto no curso de [HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) da Origamid.
 
 <br />
 
 ## :trophy: Objetivo <a name="#id03"></a>
 
-Introduzir conceitos de CSS Grid Layout. 
+Introduzir conceitos de CSS Grid Layout.
 
 ## :trophy: Aprendizado <a name="#id04"></a>
 
-- Grid 
-- Flexbox 
+- Grid
+- Flexbox
 - Pseudo Classes
 - Pseudo Elements
 - Tag semântica
@@ -42,7 +42,7 @@ Introduzir conceitos de CSS Grid Layout.
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
-- Tornar o site bikcraft responsivo. 
+- Tornar o site bikcraft responsivo.
 
 <br />
 
@@ -50,7 +50,7 @@ Introduzir conceitos de CSS Grid Layout.
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](./design/tela-login-desktop.png)
+![Design preview desktop](./design/bikcraft-desktop.png)
 
 ## :iphone: Mobile design
 
@@ -94,7 +94,7 @@ Clone este repositório usando o comando:
 git clone https://github.com/RaizaCirne/bikcraft-desafio.git
 ```
 
-Baixar arquivo zip 
+Baixar arquivo zip
 
 Extrir arquivos
 
@@ -112,4 +112,3 @@ Abrir pasta no editor de código.
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
 **HTML - CSS** 🚀
-
