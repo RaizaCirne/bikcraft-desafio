@@ -56,7 +56,7 @@ Introduzir conceitos de CSS Grid Layout.
 
 ## :iphone: Mobile design
 
-![Design preview mobile](./design/bikecrafit-mobile2.png)
+![Design preview mobile](./design/bikecrafit-mobile.png)
 
 <br />
 
