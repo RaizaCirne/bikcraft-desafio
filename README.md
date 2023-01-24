@@ -39,6 +39,8 @@ Introduzir conceitos de CSS Grid Layout.
 - Pseudo Elements
 - Tag semântica
 - Acessibilidade
+- Responsividade
+- Media Queries
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
@@ -54,7 +56,7 @@ Introduzir conceitos de CSS Grid Layout.
 
 ## :iphone: Mobile design
 
-![Design preview mobile](INSERIR IMG)
+![Design preview mobile](./design/bikecrafit-mobile.png)
 
 <br />
 
