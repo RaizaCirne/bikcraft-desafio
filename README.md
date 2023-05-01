@@ -41,6 +41,7 @@ Introduzir conceitos de CSS Grid Layout.
 - Acessibilidade
 - Responsividade
 - Media Queries
+- Modo claro/escuro 
 
 ## :trophy: Prosseguimento <a name="id05"></a>
 
